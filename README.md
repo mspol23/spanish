@@ -1,1 +1,3 @@
-# Spanish Colors
+# CSS
+
+Name of colors in Spanish.
